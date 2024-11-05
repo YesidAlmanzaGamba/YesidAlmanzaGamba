@@ -26,7 +26,7 @@ I'm an **Electronic and Computer Engineer** focused on hardware development and 
   
 
 ## 📫 Let's Connect
-[LinkedIn]www.linkedin.com/in/yesid-camilo-almanza-gamba-390b79253) • [Email](y.almanza@uniandes.edu.co)
+[LinkedIn](www.linkedin.com/in/yesid-camilo-almanza-gamba-390b79253) • [Email](y.almanza@uniandes.edu.co)
 
 ---
 
