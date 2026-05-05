@@ -11,7 +11,7 @@ I'm an **Electronic and Computer Engineer** focused on hardware development and 
 ## 🛠️ Technical Skills
 - **Hardware Development:** KiCad, Altium,Eagle, LTspice
 - **Embedded Systems** and circuit design
-- **Programming:** C++, Python, MATLAB
+- **Programming:** C/C++, Python, Java, Javascript MATLAB
 - **Robotics:** ROS, robot design and control (differential, UAVs)
 
 ## 🏆 Highlighted Experience
