@@ -14,6 +14,13 @@ I'm an **Electronic and Computer Engineer** focused on hardware development and 
 - **Programming:** C/C++, Python, Java, Javascript MATLAB
 - **Robotics:** ROS, robot design and control (differential, UAVs)
 
+  
+
+<img width="900" height="450" alt="Zeta Fin 3" src="https://github.com/user-attachments/assets/8046adbd-d67c-4907-91d0-a40b9e7e8eae" />
+
+<img width="900" height="450" alt="Drone Fin 3" src="https://github.com/user-attachments/assets/67fc903e-0040-46d7-badf-b970050e0415" />
+
+
 ## 🏆 Highlighted Experience
 - **High-Temperature Hardware Design:** Developed measurement devices for temperatures up to 2000°C.
 - **Educational Robotics:** Teaching Assistant in Robotics at Universidad de los Andes, supporting students’ projects and designing challenges.
